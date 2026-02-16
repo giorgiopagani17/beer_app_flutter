@@ -1,0 +1,13 @@
+build
+.git
+.gitignore
+.idea
+*.iml
+*.lock
+android
+ios
+linux
+macos
+windows
+test
+pubspec.lock
